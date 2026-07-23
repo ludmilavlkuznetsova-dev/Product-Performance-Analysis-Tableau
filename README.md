@@ -12,6 +12,8 @@ The purpose of this project is to create a business-oriented analytics solution 
 
 ![Product Performance Dashboard](screenshots/dashboard.png)
 
+[View interactive dashboard on Tableu Public](https://public.tableau.com/app/profile/ludmila.kuznetsova/viz/ProductPerformanceAnalysisDashboard_17848238902520/SalesProductPerformanceAnalyticsDashboard?publish=yes)
+
 ---
 
 # Business Problem
@@ -178,10 +180,9 @@ AVG(Discount)
 
 Insights are based on the full analyzed period (2016–2019).
 
-- Technology category generated the highest sales volume during the analyzed period (2016–2019).
-- Some products generated significant sales but had low or negative profitability.
-- Sales demonstrated seasonal patterns with higher performance during certain months.
-- Discount levels varied across products and categories and may influence profitability.
+- Technology was the leading category by sales during the analyzed period (2016–2019), generating 1 076 381 in revenue and accounting for 37% of total sales.
+- Some product categories like Furniture generated significant sales (944 072) but had low profit margin (3,3%).
+- Sales demonstrated seasonal patterns with higher performance during August and September.
 
 ---
 
@@ -220,14 +221,6 @@ Product-Performance-Analysis-Tableau/
   - Filters
   - Dashboard actions
   - Hierarchies
-
----
-
-# Tableau Public
-
-Interactive dashboard on Tableu Public:
-
-https://public.tableau.com/app/profile/ludmila.kuznetsova/viz/ProductPerformanceAnalysisDashboard_17848238902520/SalesProductPerformanceAnalyticsDashboard?publish=yes
 
 ---
 
