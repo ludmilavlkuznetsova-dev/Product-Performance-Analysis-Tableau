@@ -10,7 +10,7 @@ The purpose of this project is to create a business-oriented analytics solution 
 
 ## Dashboard Preview
 
-![Product Performance Dashboard](files/dashboard preview.png)
+![Product Performance Dashboard](screenshots/dashboard.png)
 
 ---
 
@@ -230,9 +230,9 @@ Product-Performance-Analysis-Tableau/
 
 # Tableau Public
 
-Interactive dashboard:
+Interactive dashboard on Tableu Public:
 
-[Add Tableau Public Link]
+https://public.tableau.com/app/profile/ludmila.kuznetsova/viz/ProductPerformanceAnalysisDashboard_17848238902520/SalesProductPerformanceAnalyticsDashboard?publish=yes
 
 ---
 
