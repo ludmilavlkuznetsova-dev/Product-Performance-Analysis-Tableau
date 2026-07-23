@@ -176,14 +176,12 @@ AVG(Discount)
 
 # Key Insights
 
-*(To be completed after final analysis)*
+Insights are based on the full analyzed period (2016–2019).
 
-Examples:
-
-- Technology category generates the highest sales contribution.
-- Some products generate high sales but have low or negative profitability.
-- Discount levels may affect product profitability.
-- Product performance varies significantly within the same category.
+- Technology category generated the highest sales volume during the analyzed period (2016–2019).
+- Some products generated significant sales but had low or negative profitability.
+- Sales demonstrated seasonal patterns with higher performance during certain months.
+- Discount levels varied across products and categories and may influence profitability.
 
 ---
 
@@ -195,19 +193,16 @@ Examples:
 ---
 
 # Project Structure
+```
 Product-Performance-Analysis-Tableau/
 
-│
 ├── README.md
 │
 ├── screenshots/
 │   └── dashboard.png
-│
-├── data/
-│   └── superstore_orders.xlsx
-│
 └── tableau/
-└── Product_Performance_Dashboard.twbx
+    └── Product_Performance_Dashboard.twbx
+```
 
 ---
 
